@@ -16,4 +16,5 @@ def join_nested_strings(src)
 
     row_count += 1
   end
+  return strings
 end
